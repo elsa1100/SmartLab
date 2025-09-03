@@ -1,0 +1,49 @@
+# Flutter & Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+
+# Dependency files (can be regenerated)
+pubspec.lock
+
+# IDE specific
+.idea/
+*.iml
+.vscode/
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/.generated/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+
+# Android
+android/.gradle/
+android/app/build/
+android/local.properties
+android/key.properties
+
+# macOS
+macos/Flutter/ephemeral/
+
+# Windows
+windows/flutter/ephemeral/
+
+# Linux
+linux/flutter/ephemeral/
+
+# Web
+web/.dart_tool/
+
+# Env / secrets
+.env
+*.env
+env.json
+
+# System files
+.DS_Store
+Thumbs.db

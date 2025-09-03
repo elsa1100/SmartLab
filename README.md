@@ -70,7 +70,8 @@
 
 
 
-# !\[Frame Screenshot](SmartLab/assets/interfaces.jpg)
+# ![App Interface](assets/interfaces.jpg)
+
 
 # 
 
